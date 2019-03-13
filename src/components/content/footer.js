@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
-class Home extends Component {
+class Footer extends Component {
     render() {
         return (
             <div>
+                底部
             </div>
         )
     }
 }
-export default Home
+export default Footer
